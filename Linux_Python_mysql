@@ -1,0 +1,3 @@
+#删除特殊字符开头文件
+rm -- -teshu.txt  (删除-teshu.txt)
+
